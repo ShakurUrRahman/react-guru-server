@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01",
+        "name": "Complete React JS web developer with ES6"
+    },
+    {
+        "id": "02",
+        "name": "Modern React with Redux"
+    },
+    {
+        "id": "03",
+        "name": "React JS - Mastering Redux"
+    },
+    {
+        "id": "04",
+        "name": "Node with React: Fullstack Web Development"
+    },
+    {
+        "id": "05",
+        "name": "The Complete React Developer Course"
+    },
+    {
+        "id": "06",
+        "name": "Server Side Rendering with React and Redux"
+    },
+    {
+        "id": "07",
+        "name": "All Courses"
+    }
+]
