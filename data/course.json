@@ -1,0 +1,56 @@
+[
+    {
+        "_id": "6356d24c217c63367c34be2a",
+        "picture": "https://miro.medium.com/max/1200/1*P93WJp3xdKnEOzs7f_YFug.jpeg",
+        "name": "Complete React JS web developer with ES6",
+        "category_id": "01",
+        "created_by": "Igneus Technologies",
+        "ratings": "4.4",
+        "about": "This course is perfect for someone who has little knowledge of HTML, CSS and Javascript. We are not saying that you need to be guru of javascript but little concepts like Loops and functions should be familiar to you. If you know ES6 that's great, if not, don't worry, ES6 is also covered in this course."
+    },
+    {
+        "_id": "6356d24c9e6e22158db5df11",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQedkIrwYfs7U8E7rGcPolTEoiD1d6B7NvjzRnocI0bMeCv6zJJ4GQUQMXCspTWNVUzwk0&usqp=CAU",
+        "name": "Modern React with Redux",
+        "category_id": "02",
+        "created_by": "Stephen Grider",
+        "ratings": "4.6",
+        "about": "Congratulations!  You've found the most popular, most complete, and most up-to-date resource online for learning React and Redux! Thousands of other engineers have learned React and Redux, and you can too.  This course uses a time-tested, battle-proven method to make sure you understand exactly how React and Redux work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about."
+    },
+    {
+        "_id": "6356d24c53a48974f164ad05",
+        "picture": "https://miro.medium.com/max/720/1*aBQrwweY6-qFVWeizUrTnQ.png",
+        "name": "React JS - Mastering Redux",
+        "category_id": "03",
+        "created_by": "David Joseph Katz",
+        "ratings": "4.3",
+        "about": "You will become an in-demand software engineer by taking this course on React JS and Redux. As one of the most popular pairs of frameworks, learning React and Redux is a must. Simply put, learning React will open doors and jobs for you. This project-based course will have you coding right away. By building four carefully thought-out example applications, you will sharpen your skills in modern web development."
+    },
+    {
+        "_id": "6356d24c91a47ef601f42ce9",
+        "picture": "https://cdn.wccftech.com/wp-content/uploads/2016/10/Front-End-Development-Bundle.jpg",
+        "name": "Node with React: Fullstack Web Development",
+        "category_id": "04",
+        "created_by": "Stephen Grider",
+        "ratings": "4.7",
+        "about": "All of my courses are 'learn-by-doing': no boring endless lectures with Powerpoints, only live, interactive coding examples.  In this course we'll build one massive web application that profiles the advanced features of React, Redux, Express, and Mongo.  By putting each concept into a real app, you'll get a better idea of when to use each unique and powerful feature. Build a large feedback-collection app. This mega app will include the full gamut of features, including everything from authentication to email handling.  You'll learn how to build an app that can be used to send mass emails to a big list of users for the purpose of collecting feedback.  It's my goal to ensure you understand each feature we build into this app so you can apply them to your own personal or professional projects in the future."
+    },
+    {
+        "_id": "6356d24ccd2c48fdf9bb5cd4",
+        "picture": "https://images.ctfassets.net/aq13lwl6616q/6zCIfQKcUgpsnIqOwr3v2K/f5532e81dd84804b053765008e429afb/complete_React_Developer_zero_to_mastery_ztm.png",
+        "name": "The Complete React Developer Course",
+        "category_id": "05",
+        "created_by": "Stephen Grider",
+        "ratings": "4.4",
+        "about": "The Complete React Web Developer Course 2 starts with the fundamentals and covers everything you'll need to build and launch React web apps. You'll see what it takes to build and launch a React app, from the first line of code to the final production deployment. This course was designed around one goal: turning you into a professional React developer capable of developing, testing, and deploying real-world production applications."
+    },
+    {
+        "_id": "6356d24ccd2c48fdf9bb5cd4",
+        "picture": "https://images.ctfassets.net/aq13lwl6616q/6zCIfQKcUgpsnIqOwr3v2K/f5532e81dd84804b053765008e429afb/complete_React_Developer_zero_to_mastery_ztm.png",
+        "name": "Server Side Rendering with React and Redux",
+        "category_id": "06",
+        "created_by": "Stephen Grider",
+        "ratings": "4.5",
+        "about": "Ever wonder why there are so few courses online that teach server side rendering techniques?  Sure, there are blog posts that show a tiny portion of a server side rendered app, but there are nearly no resources online to give you the full server side rendering experience from start to finish.  This course is the most complete resource online for learning about exactly why server side rendering is so challenging.  You'll learn the biggest hurdles, along with multiple solutions to each major problem, giving you the toolset you need to tackle server side rendering techniques in your own applications."
+    }
+]
