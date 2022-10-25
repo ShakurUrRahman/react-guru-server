@@ -1,7 +1,7 @@
 [
     {
         "_id": "6356d24c217c63367c34be2a",
-        "picture": "https://miro.medium.com/max/1200/1*P93WJp3xdKnEOzs7f_YFug.jpeg",
+        "picture": "https://hackr.io/blog/react-courses/thumbnail/large",
         "name": "Complete React JS web developer with ES6",
         "category_id": "01",
         "created_by": "Igneus Technologies",
@@ -46,7 +46,7 @@
     },
     {
         "_id": "6356d24ccd2c48fdf9bb5cd4",
-        "picture": "https://images.ctfassets.net/aq13lwl6616q/6zCIfQKcUgpsnIqOwr3v2K/f5532e81dd84804b053765008e429afb/complete_React_Developer_zero_to_mastery_ztm.png",
+        "picture": "https://community-cdn-digitalocean-com.global.ssl.fastly.net/rnDs1C6GEanrcB4Tiv8ueY6T",
         "name": "Server Side Rendering with React and Redux",
         "category_id": "06",
         "created_by": "Stephen Grider",
