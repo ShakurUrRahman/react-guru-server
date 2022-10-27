@@ -38,6 +38,7 @@ app.get('/course/:id', (req, res) => {
     res.send(selectedCourse);
 })
 
+
 app.listen(port, () => {
     console.log('React GURU server is running on port', port);
 })
