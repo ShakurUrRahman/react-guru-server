@@ -10,7 +10,7 @@ const categories = require('./data/categories.json');
 const course = require('./data/course.json');
 
 app.get('/', (req, res) => {
-    res.send('React GURU API is running');
+    res.send('React GURU API is running smoothly');
 });
 
 app.get('/react-categories', (req, res) => {
